@@ -1,56 +1,112 @@
-# Pradeep Kumar | Senior SRE & Creative Dev
+<div align="center">
 
-> Architecting the unseen. Breathing life into code.
+<p><strong>☁️ RELIABILITY ENGINEERING &nbsp;·&nbsp; 🎨 CREATIVE DEVELOPMENT</strong></p>
 
-Personal portfolio of **Pradeep Kumar**, a Senior Site Reliability Engineer at Oracle, based in Bengaluru, India. By day I keep cloud and healthcare platforms reliable. By night I sculpt light and sound out of code.
+<h1>👨‍💻 Pradeep Kumar</h1>
 
-**Live site:** https://iampradeepone.github.io/
+<p><em>Architecting the unseen. Breathing life into code.</em></p>
+
+<p>Senior Site Reliability Engineer at Oracle<br>📍 Bengaluru, India</p>
+
+<p>
+  <a href="https://iampradeepone.github.io/"><strong>🌐 Explore the portfolio ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/iampradeepone">🐙 GitHub</a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Pages">
+</p>
+
+<p>
+  <a href="#the-experience">The experience</a> ·
+  <a href="#built-with">Built with</a> ·
+  <a href="#run-locally">Run locally</a> ·
+  <a href="#deployment">Deployment</a> ·
+  <a href="#accessibility--performance">Accessibility</a>
+</p>
+
+</div>
 
 ---
 
-## What's on the site
+By day I keep cloud and healthcare platforms reliable. By night I sculpt light and sound out of code. This portfolio brings both sides of my work together through interactive systems, generative music, and stories from my engineering journey.
 
-| Section | What you'll find |
+<a id="the-experience"></a>
+
+## ✨ The experience
+
+| | Section | What you'll find |
+| :---: | --- | --- |
+| **01** | **Intro** | A live, generative `/dev/radio` player with a browser-made synthwave soundtrack and an animated night skyline that reacts to the music. |
+| **02** | **My Story & Craft** | The “one system, two lenses” reliability simulation, **Journey Logs** career timeline, and **My Daily Arsenal** skills collection. |
+| **03** | **My Work** | An interactive 3D project globe with individual case studies. On phones and for reduced-motion users, projects appear as a simple list. |
+| **04** | **Collaborate** | Ways to get in touch and start a conversation. |
+
+<a id="built-with"></a>
+
+## 🛠️ Built with
+
+**One `index.html`. No build step. No backend.**
+
+| Layer | Tools |
 | --- | --- |
-| **01. Intro** | Hero with a live, generative `/dev/radio` player: a synthwave soundtrack made in your browser, with an animated night skyline that reacts to the music. |
-| **02. My Story & Craft** | Background, the "one system, two lenses" reliability simulation, the **Journey Logs** career timeline, and My Daily Arsenal (skills). |
-| **03. My Work** | An interactive 3D globe of projects, with a case study for each one. On phones and for reduced-motion users it becomes a simple list. |
-| **04. Collaborate** | Ways to get in touch and start a conversation. |
+| **Styling** | [Tailwind CSS](https://tailwindcss.com/) via CDN and custom CSS |
+| **3D & motion** | [Three.js](https://threejs.org/) and [Anime.js](https://animejs.com/) |
+| **Generative audio** | Web Audio API — music synthesized live, with no audio files |
+| **Icons** | [Lucide](https://lucide.dev/) |
+| **Typography** | Inter, JetBrains Mono, and Oswald |
 
-## Tech
+<a id="run-locally"></a>
 
-A single static `index.html`, with no build step and no backend.
+## 💻 Run locally
 
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) (CDN) and custom CSS
-- **3D and motion:** [Three.js](https://threejs.org/) and [Anime.js](https://animejs.com/)
-- **Audio:** the Web Audio API generates the music live, with no audio files
-- **Icons and fonts:** [Lucide](https://lucide.dev/), Inter, JetBrains Mono and Oswald
-
-## Run it locally
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/iampradeepone/iampradeepone.github.io.git
 cd iampradeepone.github.io
-open index.html        # or double-click the file
 ```
 
-An internet connection is needed because the libraries and fonts load from CDNs.
+**2. Open the portfolio**
 
-## Deployment
+Double-click `index.html`, or run this command on macOS:
 
-Hosted on **GitHub Pages**. The repo is named `iampradeepone.github.io`, so every push to the default branch is published at the root URL above.
+```bash
+open index.html
+```
 
-## Accessibility and performance
+> **Internet required:** Libraries and fonts load from CDNs, so keep an internet connection active when previewing the site.
 
-- Project cards are keyboard-accessible buttons.
-- The globe falls back to a plain list on small screens and when `prefers-reduced-motion` is on.
-- Audio never plays until you press play.
+<a id="deployment"></a>
 
-## Connect
+## 🚀 Deployment
 
-- Portfolio: https://iampradeepone.github.io/
-- GitHub: [@iampradeepone](https://github.com/iampradeepone)
+Hosted on **GitHub Pages** at **[iampradeepone.github.io](https://iampradeepone.github.io/)**. The repo is named `iampradeepone.github.io`, so every push to the default branch is published at that root URL.
+
+<a id="accessibility--performance"></a>
+
+## ♿ Accessibility & performance
+
+- **Keyboard access** — Project cards are keyboard-accessible buttons.
+- **Reduced motion** — The globe falls back to a plain list on small screens and when `prefers-reduced-motion` is on.
+- **Audio control** — Music starts only when you press play.
 
 ---
 
-&copy; Pradeep Kumar. All rights reserved. Please don't copy the content or design without permission.
+<div align="center">
+
+<h2>Let's connect</h2>
+
+<p>
+  <a href="https://iampradeepone.github.io/">Portfolio ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/iampradeepone">@iampradeepone on GitHub</a>
+</p>
+
+<p><sub>&copy; Pradeep Kumar. All rights reserved.<br>Please don't copy the content or design without permission.</sub></p>
+
+</div>
